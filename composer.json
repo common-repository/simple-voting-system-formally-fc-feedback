@@ -1,0 +1,16 @@
+{
+    "name": "adii/svsfc-feedback",
+    "description": "simple voting system",
+    "autoload": {
+        "psr-4": {
+            "SVSFC_Feedback\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "adnanhyder",
+            "email": "12345adnan@gmail.com"
+        }
+    ],
+    "require": {}
+}
